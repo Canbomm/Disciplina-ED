@@ -1,0 +1,3 @@
+Em Jarangonhonha, todos possuíam quartos extremamente organizados, com exceção de Faleiros, um estudante de computação. Ele tinha muita preguiça de arrumar suas roupas, por isso todo dia que chegava em casa empilhava suas roupas em cima da cadeira. Um certo dia sua namorada entrou em seu quarto e ficou horrorizada com a situação, e mandou Faleiros arrumar tudo na mesma hora.
+
+Como ele era um estudante de computação e procrastinava muito, em vez de organizar suas roupas resolveu criar um programa capaz de mostrar a ordem que as roupas iriam ficam dentro das gavetas, assim como o tempo necessário para organizar tudo. Fez tudo isso para se organizar primeiro, claro.

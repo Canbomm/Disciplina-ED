@@ -1,0 +1,1 @@
+Implemente uma função que recebe dois números inteiros e imprime na tela o valor de sua multiplicação. A multiplicação dos números deve ser realizada por uma função chamada produto, que recebe os dois números como parâmetros (separados).

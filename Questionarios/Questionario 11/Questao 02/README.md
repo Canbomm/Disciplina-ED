@@ -1,0 +1,5 @@
+O saudoso Mussum seria uma webcelebridade nos dias atuais e, como todo jovem internauta, você gostaria ser amigo dele na rede social. Para isso, precisa solicitar a amizade, portanto tem de chegar a uma relação direta do Trapalhão. Dado um grafo descrevendo as relações da rede social, crie um programa que diga a quantidade mínima de contatos para chegar ao Mussum.
+
+**Entrada**
+
+A primeira linha da entrada indica quantos são os n vértices do grafo (2≤n≤100). As n linhas seguintes representam, cada uma, a informação de um vértice no formato: id,A,v1,v2,⋯,vA, onde id é um inteiro identificando o vértice, A é a quantidade de arestas ligadas a este vértice, e cada vi≠id é um número inteiro identificando um vértice adjacente a id. A última linha apresenta dois ids, separados por espaço, que representam você e Mussum, respectivamente.

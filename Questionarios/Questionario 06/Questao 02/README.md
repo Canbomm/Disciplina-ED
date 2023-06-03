@@ -1,0 +1,3 @@
+Sarogatip gosta de constantes matemáticas, como π,i,e,ϕ,2–√,… mas não consegue decidir sua preferida. Como todo bom futuro acadêmico, ele preza a objetividade e estabeleceu uma ordem para definir suas constantes favoritas. Ele prefere reais a inteiros, então vai organizar as constantes em ordem crescente de seu valor decimal. Assim como a matemática, Sarogatip as vezes é irônico: caso haja partes decimais iguais, ele prefere ordenar de forma decrescente considerando apenas a parte inteira da constante.
+
+Acontece que Sarogatip é um teórico, então resolveu contratar um bom desenvolvedor para escrever um programa que lê suas constantes e as ordena.

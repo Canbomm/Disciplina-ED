@@ -1,0 +1,1 @@
+Faça um programa que leia uma frase do teclado, com números inteiros e palavras, cada elemento separado por espaço. Seu programa deve separar as palavras e números em duas pilhas, uma somente composta por palavras e outra somente de números. A frase não tem restrição de tamanho.
